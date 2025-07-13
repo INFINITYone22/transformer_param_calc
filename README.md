@@ -102,3 +102,4 @@ Feel free to submit issues or pull requests to improve the calculator!
 ## 📄 License
 
 MIT License - feel free to use and modify as needed. 
+ROHITH GARAPATI 2025 (INFINITYone22)
